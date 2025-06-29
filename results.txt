@@ -1,0 +1,80 @@
+>>>> Testing input data size of 1000 elements
+>>>Randomized Pivot Quicksort on Random Data
+took 0.002894163131713867 seconds
+
+>>>Randomized Pivot Quicksort on Sorted Data
+took 0.002588033676147461 seconds
+
+>>>Randomized Pivot Quicksort on Reversed Sorted Data
+took 0.0026531219482421875 seconds
+
+>>>Randomized Pivot Quicksort on Repeated Random Data
+took 0.02142500877380371 seconds
+
+>>>Middle Element Pivot Quicksort on Random Data
+took 0.0017881393432617188 seconds
+
+>>>Middle Element Pivot Quicksort on Sorted Data
+took 0.0012717247009277344 seconds
+
+>>>Middle Element Pivot Quicksort on Reversed Sorted Data
+took 0.0015797615051269531 seconds
+
+>>>Middle Element Pivot Quicksort on Repeated Random Data
+took 0.019902944564819336 seconds
+
+
+
+
+>>>> Testing input data size of 10000 elements
+>>>Randomized Pivot Quicksort on Random Data
+took 0.030177831649780273 seconds
+
+>>>Randomized Pivot Quicksort on Sorted Data
+took 0.028097152709960938 seconds
+
+>>>Randomized Pivot Quicksort on Reversed Sorted Data
+took 0.029265165328979492 seconds
+
+>>>Randomized Pivot Quicksort on Repeated Random Data
+took 1.9532899856567383 seconds
+
+>>>Middle Element Pivot Quicksort on Random Data
+took 0.02355194091796875 seconds
+
+>>>Middle Element Pivot Quicksort on Sorted Data
+took 0.017995119094848633 seconds
+
+>>>Middle Element Pivot Quicksort on Reversed Sorted Data
+took 0.019322872161865234 seconds
+
+>>>Middle Element Pivot Quicksort on Repeated Random Data
+took 1.8858051300048828 seconds
+
+
+
+
+>>>> Testing input data size of 100000 elements
+>>>Randomized Pivot Quicksort on Random Data
+took 0.313586950302124 seconds
+
+>>>Randomized Pivot Quicksort on Sorted Data
+took 0.3021848201751709 seconds
+
+>>>Randomized Pivot Quicksort on Reversed Sorted Data
+took 0.29148292541503906 seconds
+
+>>>Randomized Pivot Quicksort on Repeated Random Data
+took 194.2692210674286 seconds
+
+>>>Middle Element Pivot Quicksort on Random Data
+took 0.28626108169555664 seconds
+
+>>>Middle Element Pivot Quicksort on Sorted Data
+took 0.21010589599609375 seconds
+
+>>>Middle Element Pivot Quicksort on Reversed Sorted Data
+took 0.21186113357543945 seconds
+
+>>>Middle Element Pivot Quicksort on Repeated Random Data
+took 183.29851508140564 seconds
